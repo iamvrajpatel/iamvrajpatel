@@ -273,7 +273,7 @@ Downloads historical OHLCV candles, creates rolling market windows, computes tec
 - Built a **RAG-based internal AI assistant** using embeddings, chunking strategies, Pinecone vector search, semantic search, retrieval evaluation, and context assembly — improving query response performance by **40%**.
 - Implemented **AI proctoring workflows** using head-pose detection, eye tracking, audio/noise analysis, video streaming, classification-style signal checks, and optimized open-source CV models for Maharashtra government examinations.
 - Created domain-specific datasets and fine-tuned **Qwen 1.7B** for PCM/PCB question generation using dataset engineering, SFT, prompt/response curation, evaluation harnesses, regression-style checks, and post-training workflows.
-- Engineered production-oriented **agentic AI workflows** with tool/function calling, retries, guardrails, stateful workflows, structured response validation, tracing, distributed-system design, rate limiting, caching, fault tolerance, Cloud Run model serving, autoscaling, and **70–90 requests/sec** throughput.
+- Engineered production-oriented **agentic AI workflows** with tool/function calling, retries, guardrails, stateful workflows, structured response validation, tracing, distributed-system design, rate limiting, caching, fault tolerance, Cloud Run model serving, autoscaling, and **200k–250k requests/sec** throughput.
 
 ### AI Data Trainer / LLM Evaluator — Freelance · Remote
 
